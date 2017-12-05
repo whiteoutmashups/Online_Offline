@@ -1,0 +1,65 @@
+
+ONLINE
+
+Mac Browser & Hoster-D
+
+https://github.com/maidsafe/safe_browser/releases/download/0.7.0/safe-browser-v0.7.0-osx-x64.zip
+
+https://github.com/maidsafe/safe_examples/releases/download/alpha-2/web-hosting-manager-v0.4.1-osx-x64.pkg
+
+Lin Browser & Hoster-D
+
+https://github.com/maidsafe/safe_browser/releases/download/0.7.0/safe-browser-v0.7.0-linux-x64.zip
+
+https://github.com/maidsafe/safe_examples/releases/download/alpha-2/web-hosting-manager-v0.4.1-linux-x64.zip
+
+Win Browser & Hoster -----DONE
+
+https://github.com/maidsafe/safe_browser/releases/download/0.7.0/safe-browser-v0.7.0-win-x64.zip
+
+https://github.com/maidsafe/safe_examples/releases/download/alpha-2/web-hosting-manager-v0.4.1-win-x64.msi
+
+
+
+
+
+
+OFFLINE
+
+Mac Browser & hoster
+
+https://github.com/maidsafe/safe_browser/releases/download/0.7.0/safe-browser-mock-v0.7.0-osx-x64.zip
+
+https://drive.google.com/open?id=0B7UL76d9ldG9WUtHamk5YmxJYVE
+
+Lin Browser & Hoster -----DONE
+
+https://github.com/maidsafe/safe_browser/releases/download/0.7.0/safe-browser-mock-v0.7.0-linux-x64.zip
+
+https://drive.google.com/open?id=0B6bq-Zhu7de0RnJIQ19WSVUzYW8
+
+Win Browser & Hoster
+
+https://github.com/maidsafe/safe_browser/releases/download/0.7.0/safe-browser-mock-v0.7.0-win-x64.zip
+
+https://drive.google.com/open?id=0BxIESE2ZSpIvbEJVU29DbWJvWG8
+
+
+
+LinOff
+https://drive.google.com/open?id=1Y1CtcgvNhYik-AYAGE4L_uGAs6YNg8BW
+
+LinOn
+https://drive.google.com/open?id=136v0bNpoaUpOW1Y6H_RtxcYKksiB8Pyp
+
+MacOff
+https://drive.google.com/open?id=1nGT17a4RkD0EG_yt50v1olA2RkRZ3kkl
+
+MacOn
+https://drive.google.com/open?id=1JA3E4TXLfWkkU5dmXiI3tKoL8muvdu59
+
+WinOff
+https://drive.google.com/open?id=14iuQjsEJieoLITJouIgHURFQneA1wYeZ
+
+WinOn
+https://drive.google.com/open?id=1wR19Ok6xZRoMhAKrAI0nh_LRTKwSi5Mc
